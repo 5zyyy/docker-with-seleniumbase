@@ -5,4 +5,5 @@
 
 ### Create a new container instance
 `docker run <image name>`
+<br>
 (optional) To assign a name to the container: `docker run --name <name container> <image name>`
